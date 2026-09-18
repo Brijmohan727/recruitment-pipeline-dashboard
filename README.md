@@ -61,12 +61,7 @@ recruitment-pipeline-dashboard/
 
 </details>
 
-<details>
-<summary>📝 <b>Note on Data</b> (click to expand)</summary>
 
-This is a synthetic dataset I generated myself to simulate a realistic recruitment pipeline, so I could practice star schema design and DAX without needing real HR data. The schema mirrors a real ATS structure, with realistic patterns like funnel drop-off and time gaps built in.
-
-</details>
 
 ---
 
