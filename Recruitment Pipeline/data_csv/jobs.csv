@@ -1,0 +1,71 @@
+job_id,company_id,job_title,department,experience_required,posted_date,status
+1,4,BI Developer,Data,3-5 years,1/3/2026,Closed
+2,15,HR Executive,HR,2-4 years,5/8/2025,Closed
+3,12,Data Scientist,Data,Fresher,7/16/2025,Closed
+4,3,Content Strategist,Marketing,2-4 years,8/27/2025,Closed
+5,12,Talent Acquisition Specialist,HR,0-1 years,6/16/2025,Closed
+6,3,HR Generalist,HR,0-1 years,6/25/2025,Closed
+7,13,Business Development Associate,Sales,3-5 years,10/4/2025,Closed
+8,11,SEO Specialist,Marketing,Fresher,2/27/2025,Open
+9,9,Accounts Executive,Finance,3-5 years,3/9/2025,Open
+10,16,Financial Analyst,Finance,2-4 years,2/10/2026,Closed
+11,5,Business Development Associate,Sales,3-5 years,9/10/2025,Closed
+12,14,HR Generalist,HR,0-1 years,2/13/2026,Closed
+13,2,Customer Support Executive,Customer Support,0-1 years,4/23/2025,Open
+14,3,Process Associate,Operations,2-4 years,1/30/2026,Closed
+15,1,HR Generalist,HR,3-5 years,4/28/2025,Closed
+16,11,HR Generalist,HR,0-1 years,4/25/2025,Open
+17,9,Customer Support Executive,Customer Support,3-5 years,5/28/2026,Closed
+18,17,Data Scientist,Data,0-1 years,7/23/2025,Open
+19,11,QA Engineer,Engineering,1-3 years,5/16/2026,Open
+20,2,HR Executive,HR,Fresher,9/4/2025,Closed
+21,3,BI Developer,Data,0-1 years,6/30/2026,Closed
+22,9,Customer Support Executive,Customer Support,2-4 years,6/25/2026,Closed
+23,7,SEO Specialist,Marketing,1-3 years,11/16/2025,Closed
+24,4,Technical Support Associate,Customer Support,1-3 years,9/11/2025,Open
+25,18,QA Engineer,Engineering,Fresher,8/24/2025,Closed
+26,8,Data Analyst,Data,1-3 years,3/11/2025,Closed
+27,9,Business Analyst,Data,0-1 years,5/13/2026,Open
+28,16,Customer Support Executive,Customer Support,Fresher,2/21/2026,Open
+29,14,Supply Chain Analyst,Operations,Fresher,2/25/2026,Closed
+30,13,Data Analyst,Data,Fresher,12/14/2025,Closed
+31,7,Digital Marketing Executive,Marketing,0-1 years,4/5/2026,Open
+32,8,Talent Acquisition Specialist,HR,3-5 years,3/19/2025,Closed
+33,18,Data Analyst,Data,0-1 years,1/16/2025,Closed
+34,16,Business Development Associate,Sales,2-4 years,5/8/2026,Open
+35,13,Backend Developer,Engineering,1-3 years,1/3/2025,Closed
+36,14,Technical Support Associate,Customer Support,1-3 years,5/14/2026,Open
+37,18,Digital Marketing Executive,Marketing,Fresher,3/4/2025,Closed
+38,16,QA Engineer,Engineering,3-5 years,5/30/2026,Closed
+39,17,Sales Executive,Sales,Fresher,3/24/2025,Closed
+40,13,Business Analyst,Data,3-5 years,5/3/2025,Closed
+41,2,SEO Specialist,Marketing,3-5 years,3/25/2025,Closed
+42,7,Accounts Executive,Finance,2-4 years,11/18/2025,Open
+43,10,Key Account Manager,Sales,Fresher,4/14/2026,Open
+44,4,Data Engineer,Engineering,3-5 years,3/17/2025,Closed
+45,12,HR Executive,HR,1-3 years,3/12/2025,Closed
+46,15,HR Executive,HR,3-5 years,11/6/2025,Closed
+47,18,DevOps Engineer,Engineering,Fresher,11/3/2025,Closed
+48,4,Business Development Associate,Sales,0-1 years,4/20/2025,Closed
+49,7,Talent Acquisition Specialist,HR,1-3 years,12/18/2025,Open
+50,2,Technical Support Associate,Customer Support,1-3 years,4/5/2025,Closed
+51,11,Software Engineer,Engineering,1-3 years,5/14/2025,Closed
+52,15,Key Account Manager,Sales,Fresher,3/14/2026,Closed
+53,18,Business Analyst,Data,3-5 years,2/6/2025,Closed
+54,5,Business Development Associate,Sales,Fresher,2/12/2025,Open
+55,8,Financial Analyst,Finance,3-5 years,4/16/2025,Closed
+56,5,Process Associate,Operations,0-1 years,8/31/2025,Closed
+57,6,Operations Executive,Operations,2-4 years,12/7/2025,Closed
+58,6,Content Strategist,Marketing,Fresher,4/21/2025,Closed
+59,7,Customer Support Executive,Customer Support,0-1 years,4/17/2026,Open
+60,7,Digital Marketing Executive,Marketing,Fresher,2/13/2026,Open
+61,17,Talent Acquisition Specialist,HR,3-5 years,2/14/2026,Closed
+62,4,Financial Analyst,Finance,1-3 years,9/25/2025,Open
+63,14,Software Engineer,Engineering,1-3 years,12/20/2025,Closed
+64,17,Process Associate,Operations,3-5 years,4/29/2025,Closed
+65,2,Content Strategist,Marketing,3-5 years,3/23/2026,Open
+66,14,Content Strategist,Marketing,1-3 years,3/13/2025,Closed
+67,4,Audit Associate,Finance,2-4 years,11/4/2025,Closed
+68,10,Accounts Executive,Finance,2-4 years,5/11/2025,Open
+69,10,Key Account Manager,Sales,Fresher,2/20/2026,Closed
+70,7,Talent Acquisition Specialist,HR,3-5 years,3/17/2026,Closed
