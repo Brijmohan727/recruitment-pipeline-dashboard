@@ -54,9 +54,7 @@ HR had no single view of where candidates drop off, how long hiring takes, or wh
 recruitment-pipeline-dashboard/
 ├── data/              → Source CSV files
 ├── dashboard/          → recruitment_dashboard.pbix
-├── screenshots/         → Dashboard preview image
 ├── docs/                 → Problem statement & solution write-up (Word)
-└── README.md
 ```
 
 </details>
